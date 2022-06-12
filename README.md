@@ -1,6 +1,6 @@
 # Birthday Mini Game Made for Co-Worker
 
-Small project made for a co-worker. Quickly coded and not at all optimized, but the main scripts are below:
+Small project made for a co-worker. Quickly coded and not at all optimized, but the main scripts are below. Play the game here: [LINK](https://belljs.github.io/britt-bday/)
 
 
 ## Autoload Singleton Script
